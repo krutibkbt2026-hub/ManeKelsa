@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- Title -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit Worker"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#6A1B9A"
+            android:layout_gravity="center"/>
+
+        <!-- Worker Image -->
+        <ImageView
+            android:id="@+id/imageEditWorker"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:src="@android:drawable/ic_menu_camera"
+            android:scaleType="centerCrop"/>
+
+        <!-- Change Image -->
+        <Button
+            android:id="@+id/btnChangeImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Change Image"
+            android:layout_gravity="center"
+            android:layout_marginTop="12dp"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#6A1B9A"/>
+
+        <!-- Name -->
+        <EditText
+            android:id="@+id/editWorkerName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:hint="Worker Name"/>
+
+        <!-- Work -->
+        <EditText
+            android:id="@+id/editWorkerWork"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="Work Type"/>
+
+        <!-- Experience -->
+        <EditText
+            android:id="@+id/editWorkerExperience"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="Experience"/>
+
+        <!-- Phone -->
+        <EditText
+            android:id="@+id/editWorkerPhone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="Phone Number"/>
+
+        <!-- Area -->
+        <EditText
+            android:id="@+id/editWorkerArea"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="Area"/>
+
+        <!-- Availability -->
+        <Switch
+            android:id="@+id/switchEditAvailability"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Available"
+            android:layout_marginTop="20dp"/>
+
+        <!-- Update Button -->
+        <Button
+            android:id="@+id/btnUpdateWorker"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="30dp"
+            android:text="Update Worker"
+            android:textAllCaps="false"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#6A1B9A"/>
+
+    </LinearLayout>
+
+</ScrollView>

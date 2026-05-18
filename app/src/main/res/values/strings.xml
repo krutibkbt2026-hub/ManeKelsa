@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">ManeKelsa</string>
+
+    <!-- Splash -->
+    <string name="get_started">Get Started</string>
+    <string name="connecting_workers">Connecting Local Workers</string>
+
+    <!-- Login -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup_text">Don\'t have an account? Sign Up</string>
+
+    <!-- Signup -->
+    <string name="create_account">Create Account</string>
+    <string name="signup_continue">Sign up to continue</string>
+    <string name="already_account">Already have an account? Login</string>
+
+    <!-- Home -->
+    <string name="available_workers">Available Workers</string>
+    <string name="search_workers">Search workers...</string>
+    <string name="logout">Logout</string>
+
+    <!-- Profile -->
+    <string name="my_profile">My Profile</string>
+    <string name="availability">Availability</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="busy">Busy</string>
+    <string name="daily_availability">Daily Availability</string>
+    <string name="area">Area</string>
+    <string name="language">Language</string>
+    <string name="view_ratings">View Ratings</string>
+
+    <!-- Register -->
+    <string name="worker_registration">Worker Registration</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="full_name">Full Name</string>
+    <string name="experience">Experience (Years)</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="available_work">Available for Work</string>
+    <string name="register">Register</string>
+
+    <!-- Details -->
+    <string name="call_worker">Call Worker</string>
+
+    <!-- Bottom Navigation -->
+    <string name="home">Home</string>
+    <string name="register_nav">Register</string>
+    <string name="profile">Profile</string>
+
+    <!-- Worker Jobs -->
+    <string name="cooking">Cooking</string>
+    <string name="cleaning">Cleaning</string>
+    <string name="gardening">Gardening</string>
+
+</resources>

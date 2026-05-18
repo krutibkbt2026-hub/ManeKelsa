@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">ಮನೆ ಕೆಲಸ</string>
+
+    <!-- Splash -->
+    <string name="get_started">ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="connecting_workers">ಸ್ಥಳೀಯ ಕೆಲಸಗಾರರನ್ನು ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ</string>
+
+    <!-- Login -->
+    <string name="welcome_back">ಮತ್ತೆ ಸ್ವಾಗತ</string>
+    <string name="login_continue">ಮುಂದುವರಿಸಲು ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="password">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="signup_text">ಖಾತೆ ಇಲ್ಲವೇ? ನೋಂದಣಿ ಮಾಡಿ</string>
+
+    <!-- Signup -->
+    <string name="create_account">ಖಾತೆ ರಚಿಸಿ</string>
+    <string name="signup_continue">ಮುಂದುವರಿಸಲು ನೋಂದಣಿ ಮಾಡಿ</string>
+    <string name="already_account">ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೆ? ಲಾಗಿನ್</string>
+
+    <!-- Home -->
+    <string name="available_workers">ಲಭ್ಯವಿರುವ ಕೆಲಸಗಾರರು</string>
+    <string name="search_workers">ಕೆಲಸಗಾರರನ್ನು ಹುಡುಕಿ...</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+
+    <!-- Profile -->
+    <string name="my_profile">ನನ್ನ ಪ್ರೊಫೈಲ್</string>
+    <string name="availability">ಲಭ್ಯತೆ</string>
+    <string name="online">ಆನ್‌ಲೈನ್</string>
+    <string name="offline">ಆಫ್‌ಲೈನ್</string>
+    <string name="busy">ವ್ಯಸ್ತ</string>
+    <string name="daily_availability">ದಿನನಿತ್ಯ ಲಭ್ಯತೆ</string>
+    <string name="area">ಪ್ರದೇಶ</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="view_ratings">ರೇಟಿಂಗ್‌ಗಳನ್ನು ನೋಡಿ</string>
+
+    <!-- Register -->
+    <string name="worker_registration">ಕೆಲಸಗಾರರ ನೋಂದಣಿ</string>
+    <string name="choose_photo">ಫೋಟೋ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="experience">ಅನುಭವ (ವರ್ಷಗಳು)</string>
+    <string name="phone_number">ದೂರವಾಣಿ ಸಂಖ್ಯೆ</string>
+    <string name="available_work">ಕೆಲಸಕ್ಕೆ ಲಭ್ಯ</string>
+    <string name="register">ನೋಂದಣಿ</string>
+
+    <!-- Details -->
+    <string name="call_worker">ಕೆಲಸಗಾರರಿಗೆ ಕರೆ ಮಾಡಿ</string>
+
+    <!-- Bottom Navigation -->
+    <string name="home">ಮುಖಪುಟ</string>
+    <string name="register_nav">ನೋಂದಣಿ</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+
+    <!-- Worker Jobs -->
+    <string name="cooking">ಅಡುಗೆ</string>
+    <string name="cleaning">ಸ್ವಚ್ಛತೆ</string>
+    <string name="gardening">ತೋಟಗಾರಿಕೆ</string>
+
+</resources>
